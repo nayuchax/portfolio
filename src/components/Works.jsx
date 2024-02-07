@@ -46,7 +46,7 @@ const Works = () => {
             <div className="text-center text-lg font-bold p-8">・Works</div>
             <div className="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-4 gap-8 justify-items-center p-10">
                 <div className="max-w-sm mx-auto overflow-hidden shadow-lg rounded-lg">
-                    <img className="w-full h-64 object-cover object-center" src="../img/seihin_1.png" alt="Card Image" />
+                    <img className="w-full h-64 object-cover object-center" src="../img/seihin_1.png" alt="Seihin Illustration 1" />
                     <div className="p-6">
                         <h2 className="text-md font-bold text-gray-800">製品生産予想</h2>
                         <p className="mt-2 text-gray-600 text-sm">Pythonを使用して開発されたこのプロジェクトは、電力量データを元に製品の製造数を予測するものです。</p>
@@ -82,7 +82,7 @@ const Works = () => {
                 </div>
 
                 <div className="max-w-sm mx-auto overflow-hidden shadow-lg rounded-lg">
-                    <img className="w-full h-64 object-cover object-center" src="../img/ayuzon_1.png" alt="Card Image" />
+                    <img className="w-full h-64 object-cover object-center" src="../img/ayuzon_1.png" alt="Ayuzon Illustration 1" />
                     <div className="p-6">
                         <h2 className="text-md font-bold text-gray-800">ayuzon</h2>
                         <p className="mt-2 text-gray-600 text-sm">初めて制作したこのWEBサイトは、Reactを使用したJavaScriptフレームワークをベースにしています。</p>
@@ -118,7 +118,7 @@ const Works = () => {
                 </div>
 
                 <div className="max-w-sm mx-auto overflow-hidden shadow-lg rounded-lg">
-                    <img className="w-full h-64 object-cover object-center" src="./img/chatbot_2.png" alt="Card Image" />
+                    <img className="w-full h-64 object-cover object-center" src="./img/chatbot_2.png" alt="ChatBot Illustration 1" />
                     <div className="p-6">
                         <h2 className="text-md font-bold text-gray-800">chatbot</h2>
                         <p className="mt-2 text-gray-600 text-sm">このChatBotは、あいまい検索と呼ばれる手法を使用しています。このAIは特定のサイトのFAQに対して、ユーザーの質問に対する回答を出力することができます。</p>
@@ -154,7 +154,7 @@ const Works = () => {
                 </div>
 
                 <div className="max-w-sm mx-auto overflow-hidden shadow-lg rounded-lg">
-                    <img className="w-full h-64 object-cover object-center" src="../img/train_1.png" alt="Card Image" />
+                    <img className="w-full h-64 object-cover object-center" src="../img/train_1.png" alt="Train Illustration 1" />
                     <div className="p-6">
                         <h2 className="text-md font-bold text-gray-800">トレーニング自動作成app</h2>
                         <p className="mt-2 text-gray-600 text-sm">このアプリは、トレーニングの内容を自動で設定してくれる便利なツールです。ユーザーはトレーニングの強度や対象部位を選択することで、自動的にトレーニングプログラムが決定されます。</p>
