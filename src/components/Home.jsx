@@ -116,9 +116,9 @@ const Home = () => {
                 </div>
                 <div className="p-2 max-w-sm rounded overflow-hidden shadow-lg">
                     <div className="px-6 py-4">
-                        <div className="font-bold text-md mb-2 ml-2">競馬予想AI</div>
+                        <div className="font-bold text-md mb-2 ml-2">トレーニング自動作成app</div>
                         <p className="text-gray-700 text-sm border-t border-blue-200 pt-4 pl-2">
-                            このAIは、ウェブサイトから馬のデータをスクレイピングし、そのデータをもとに馬のタイムを予測するものです。モデルとしては線形回帰が使用され、確率的勾配降下法を採用しています。<br />開発期間は、約1ヶ月です。
+                            このアプリは、トレーニングの内容を自動で設定してくれる便利なツールです。ユーザーはトレーニングの強度や対象部位を選択することで、自動的にトレーニングプログラムが決定されます。<br />開発期間は、3日間です。
                         </p>
                     </div>
                     <div className="px-6 pt-4 pb-2">
